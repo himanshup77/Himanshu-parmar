@@ -1,0 +1,17 @@
+h1{
+	background-color: pink;
+	color: red;
+	padding: 20px;
+	font-family: arial
+}
+p{
+    background-color:purple;
+	color:#111111;
+	padding: 20px;
+	font-family: arial;
+	font-weight:bold;
+	line-height: 1.6em;
+	margin: auto;
+	padding: 5px 10px red solid;
+	border: 15px red solid;
+}
